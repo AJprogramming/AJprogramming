@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AJprogramming
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me arteagajacob.programming@gmail.com
+- 👀 I’m interested in helping with projects
+- 🌱 I’m currently learning Flask
+- 📫 How to reach me arteagajacob@gmail.com
 
 <!---
 AJprogramming/AJprogramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
