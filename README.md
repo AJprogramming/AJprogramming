@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AJprogramming
-- 👀 I’m interested in helping with projects
+- 👀 I’m interested in working backend
 - 🌱 I’m currently learning Flask
 - 📫 How to reach me arteagajacob@gmail.com
 
